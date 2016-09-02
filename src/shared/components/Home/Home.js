@@ -14,7 +14,7 @@ function Home() {
         decisions (redux/mobx etc).
       </p>
       <p>
-        I am going to use this for my make qa list project.
+        I am going to use this for my make QA list project.
       </p>
     </article>
 
