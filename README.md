@@ -1,8 +1,13 @@
 <p align='center'>
-  <h1 align='center'>React, Universally</h1>
-  <p align='center'><img width='150' src='https://raw.githubusercontent.com/ctrlplusb/assets/master/logos/react-universally.png' /></p>
+  <h1 align='center'>QA Checklist Maker</h1>
   <p align='center'>A starter kit giving you the minimum requirements for a production ready universal react application.</p>
 </p>
+
+<p align='center'>
+  <h2 align='center'><a href="https://github.com/ctrlplusb/react-universally">Based on React Universally</a> </h2>
+  <p align='center'></p>
+</p>
+
 
 ## TOC
 
