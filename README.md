@@ -1,6 +1,6 @@
 <p align='center'>
   <h1 align='center'>QA Checklist Maker</h1>
-  <p align='center'>A starter kit giving you the minimum requirements for a production ready universal react application.</p>
+  <p align='center'>Creates a QA Checklist for testing software.</p>
 </p>
 
 <p align='center'>
